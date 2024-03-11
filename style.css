@@ -23,5 +23,15 @@
      }
      
      .escola-imagem {
-     width: 30%;
-     }
+     width: 25%;
+ }
+
+.time {
+     background-image: linear-gradient(#424242,#16CFF8);
+     color: aliceblue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 24px 0;
+}
+
